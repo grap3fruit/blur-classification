@@ -1,7 +1,8 @@
 # blur-classification
 
 - Use keras application
-- dataset directory structore
+> https://keras.io/api/applications/
+- Dataset directory structore
 ```
 root
   ├─train
