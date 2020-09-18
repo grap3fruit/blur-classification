@@ -2,7 +2,7 @@
 
 - Use keras application
 > https://keras.io/api/applications/
-- Dataset directory structore
+- Dataset directory structure
 ```
 root
   ├─train
